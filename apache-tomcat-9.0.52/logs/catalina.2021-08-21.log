@@ -1,0 +1,40 @@
+21-Aug-2021 01:23:10.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.52
+21-Aug-2021 01:23:10.481 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jul 31 2021 04:12:17 UTC
+21-Aug-2021 01:23:10.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.52.0
+21-Aug-2021 01:23:10.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+21-Aug-2021 01:23:10.484 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            3.10.0-1160.el7.x86_64
+21-Aug-2021 01:23:10.485 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+21-Aug-2021 01:23:10.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /opt/java/jdk1.8.0_291/jre
+21-Aug-2021 01:23:10.486 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_291-b10
+21-Aug-2021 01:23:10.487 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Aug-2021 01:23:10.488 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /root/apache-tomcat-9.0.52
+21-Aug-2021 01:23:10.489 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /root/apache-tomcat-9.0.52
+21-Aug-2021 01:23:10.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/root/apache-tomcat-9.0.52/conf/logging.properties
+21-Aug-2021 01:23:10.622 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Aug-2021 01:23:10.624 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+21-Aug-2021 01:23:10.631 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+21-Aug-2021 01:23:10.632 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+21-Aug-2021 01:23:10.633 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+21-Aug-2021 01:23:10.634 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/root/apache-tomcat-9.0.52
+21-Aug-2021 01:23:10.634 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/root/apache-tomcat-9.0.52
+21-Aug-2021 01:23:10.635 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/root/apache-tomcat-9.0.52/temp
+21-Aug-2021 01:23:10.646 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+21-Aug-2021 01:23:15.025 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8081"]
+21-Aug-2021 01:23:15.393 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [5966] milliseconds
+21-Aug-2021 01:23:15.615 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Aug-2021 01:23:15.615 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.52]
+21-Aug-2021 01:23:15.628 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/root/apache-tomcat-9.0.52/webapps/ROOT]
+21-Aug-2021 01:23:16.702 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/root/apache-tomcat-9.0.52/webapps/ROOT] has finished in [1,074] ms
+21-Aug-2021 01:23:16.703 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/root/apache-tomcat-9.0.52/webapps/docs]
+21-Aug-2021 01:23:16.791 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/root/apache-tomcat-9.0.52/webapps/docs] has finished in [88] ms
+21-Aug-2021 01:23:16.791 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/root/apache-tomcat-9.0.52/webapps/examples]
+21-Aug-2021 01:23:18.772 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/root/apache-tomcat-9.0.52/webapps/examples] has finished in [1,981] ms
+21-Aug-2021 01:23:18.772 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/root/apache-tomcat-9.0.52/webapps/host-manager]
+21-Aug-2021 01:23:18.999 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/root/apache-tomcat-9.0.52/webapps/host-manager] has finished in [226] ms
+21-Aug-2021 01:23:18.999 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/root/apache-tomcat-9.0.52/webapps/manager]
+21-Aug-2021 01:23:19.081 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/root/apache-tomcat-9.0.52/webapps/manager] has finished in [82] ms
+21-Aug-2021 01:23:19.099 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+21-Aug-2021 01:23:19.176 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3752] milliseconds
+21-Aug-2021 03:44:33.686 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+21-Aug-2021 03:44:33.734 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Aug-2021 03:44:33.864 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
